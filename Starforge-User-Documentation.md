@@ -1,3 +1,11 @@
+# SysML v2 python client
+Copy the Flexo URL from Settings
+<img alt="image" src="https://github.com/user-attachments/assets/cd0ab154-9920-4565-be9a-93d3ae957566" />
+
+Run ```sysmlv2_python_client.ipynb```
+Replace placerholder Flexo URL
+<img alt="image" src="https://github.com/user-attachments/assets/4c532299-9635-4527-a5ba-3badf599c4f7" />
+
 
 # SCXML Co-simulation
 ## Simulation in Notebook only
