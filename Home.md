@@ -1,3 +1,6 @@
-Welcome to the starforge-manual wiki!
+Welcome to the Starforge wiki!
 
-https://github.com/planetaryutilities/starforge-manual/wiki/Editing-Starforge-Editions-and-features
+* [Editions and Features](https://github.com/planetaryutilities/starforge-manual/wiki/Editing-Starforge-Editions-and-features)
+* [Using Git in Starforge](https://github.com/planetaryutilities/starforge-manual/wiki/Editing-Using-Git-in-Starforge-JupyterLab)
+
+
