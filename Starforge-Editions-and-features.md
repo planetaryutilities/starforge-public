@@ -30,7 +30,9 @@
 | Git integration | ✅ | ✅ | ✅ | ✅ |
 | SSO integration | ✅ | ✅ |  | |
 | Scalable on k8s on-prem, Saas, or cloud deployments | ✅ | ✅ |  |  |
-
+| Starkit bundled | ✅ | ✅ | ✅ | ✅ |
+| Bundled OpenMBEE SysML v2 Python client, allowing programmatic model access| ✅ | ✅ | ✅ | ✅ |
+| Bundled syside automator with bring your own license | ✅ | ✅ | ✅ | ✅ |
 
 
 
