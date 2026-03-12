@@ -53,6 +53,21 @@
 * Right click into into your file and select “Toggle Diff View” to see what changed
 <img alt="image" src="https://github.com/user-attachments/assets/aefd40bc-fa52-400b-869b-c59538cf33a1" />
 
+## Model evaluation
+* Expressions in the SysML model can be evaluated
+<img alt="image" src="https://github.com/user-attachments/assets/863c9869-6e7f-4889-944b-19525c36099c" />
+* The evaluation results are stored in a file
+<img alt="image" src="https://github.com/user-attachments/assets/8fc5f507-0ab1-45e2-88b8-cbd7f004057a" />
+
+# Collaborative Modeling
+* Starforge supports git-flow like operations
+* You clone projects from a remote Flexo server
+* You work locally and commit locally
+* You push your model to the remote Flexo server
+* You can pull newer version from the remote Flexo server, after cloning
+<img alt="image" src="https://github.com/user-attachments/assets/31e24889-03b9-4b17-b166-7171f0eb7597" />
+
+
 # AI Agents
 ## Adding new instructions
 * Select the an agent in the chat
@@ -61,6 +76,35 @@
 
 * Add a new instruction for our agent
 <img alt="image" src="https://github.com/user-attachments/assets/181a4c82-aa5d-4fc1-9206-c03c2c061243" />
+
+# Starkit AI-assisted Spacecraft Design
+* Select Starkit agent
+<img alt="image" src="https://github.com/user-attachments/assets/991e6948-492c-43e5-a0c3-40b8b60213d1" />
+
+* Open the engineering design view
+<img alt="image" src="https://github.com/user-attachments/assets/eb91e261-1ad6-4ad5-bc2a-3b99ffd1b311" />
+
+* Create your spacecraft in the AI chat
+* Example prompts
+`Create Nexus`
+`Add Power module`
+`Add Thermal unit`
+`What's the total mass?`
+`What's the total power?`
+`Deploy the radiator halfway`
+
+<img alt="image" src="https://github.com/user-attachments/assets/6f8f5c6d-7eaa-4179-a005-2add82314a8a" />
+
+## Commit model and inspect SysML v2 model
+* Prompt `Commit model`
+<img alt="image" src="https://github.com/user-attachments/assets/a83fe30f-f277-4534-a0d7-94921474becd" />
+
+* Inspect the model in the graphical SysMML view
+* Open the textual model for
+<img src="https://github.com/user-attachments/assets/a18330f8-66a1-4aaf-a3e0-8ab691dc66ef" />
+
+* A new .sysml file is created ion your current folder
+<img alt="image" src="https://github.com/user-attachments/assets/4bb55ab9-5412-4014-a18c-549f69aae4b0" />
 
 
 # Starkit API access
