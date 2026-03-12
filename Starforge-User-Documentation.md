@@ -1,4 +1,5 @@
 # Jupyterlab Environment
+* Starforge works in a Jupyterlab Environment
 <img alt="image" src="https://github.com/user-attachments/assets/cf8adb54-a968-4af3-bd9b-cc4ecc34b7e6" />
 
 # AI Chat
