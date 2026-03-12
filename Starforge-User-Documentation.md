@@ -1,3 +1,7 @@
+# Starkit API access
+Run ```starkit.ipynb```
+<img alt="image" src="https://github.com/user-attachments/assets/2cfafef3-9420-4f08-86cd-0d35b7cbe09d" />
+
 # SysML v2 python client
 Copy the Flexo URL from Settings
 <img alt="image" src="https://github.com/user-attachments/assets/cd0ab154-9920-4565-be9a-93d3ae957566" />
