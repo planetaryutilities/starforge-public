@@ -236,6 +236,9 @@ Documentation:
 
 [Starforge Wiki](https://github.com/planetaryutilities/starforge-public/wiki)
 
+# Installation Instructions
+Please contact [Planetary Utilities](https://www.planetaryutilities.com).
+
 ---
 
 # Examples
