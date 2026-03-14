@@ -189,7 +189,7 @@ package FlashlightStarterModel {
                 doc /* Verify system under test satisfies its weight requirement*/
                 verify flashlightSpecification.physical.weight;
             }
-            @VerificationMethod { kind = (kind::test, kind::analyze); }
+            //@VerificationMethod { kind = (kind::test, kind::analyze); }
             action placeSystemOnScale;
             action weighSystem;
             action evaluateResult;
